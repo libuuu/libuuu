@@ -9,3 +9,6 @@ I'm curious and attentive, exploring the world of code! Currently diving into Ja
 👾 Give me some ideas how to call variables, please <br/>
 
 💎 My goal is to become a coding queen. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=libuuu&theme=shadow_blue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
